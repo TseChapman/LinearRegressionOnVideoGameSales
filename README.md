@@ -39,8 +39,9 @@ region.
 
 ## Sources
 
-1] Clement, J. (2022, September 5). Steam annual game releases 2022. Statista. 
+[1] Clement, J. (2022, September 5). Steam annual game releases 2022. Statista. 
 Retrieved November 8, 2022, from 
 https://www.statista.com/statistics/552623/number-games-released-steam/
+
 [2] Games industry data and analysis. Video Game Insights. (2020, April 9). 
 Retrieve November 8, 2022, from https://vginsights.com/insights/article/infographic-indie-game-revenues-on-steam
