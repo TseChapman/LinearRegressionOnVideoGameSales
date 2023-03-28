@@ -264,4 +264,8 @@ Retrieved November 8, 2022, from
 https://www.statista.com/statistics/552623/number-games-released-steam/
 
 [2] Games industry data and analysis. Video Game Insights. (2020, April 9). 
-Retrieve November 8, 2022, from https://vginsights.com/insights/article/infographic-indie-game-revenues-on-steam/
+Retrieve November 8, 2022, from https://vginsights.com/insights/article/infographic-indie-game-revenues-on-steam
+
+[3] KendallGillies. (2017, January 25). Video game sales and ratings. Kaggle. 
+Retrieved November 8, 2022, from 
+https://www.kaggle.com/datasets/kendallgillies/video-game-sales-and-rating?datasetId=722
