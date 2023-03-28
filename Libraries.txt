@@ -1,0 +1,9 @@
+To start the python code, do "python RegressionOnVideoGameSales.py"
+
+The code requires libraries:
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+sklearn
